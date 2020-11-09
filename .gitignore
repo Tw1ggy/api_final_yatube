@@ -2,6 +2,9 @@
 env/
 venv/
 .venv/
+venv1/
+.venv1/
+token.txt
 
 __pycache__/
 *.py[cod]
